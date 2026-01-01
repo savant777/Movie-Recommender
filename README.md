@@ -72,3 +72,9 @@ Movie-Recommender/
 ## ℹ️ Author's Note
 
 This project was developed as part of the **CPE499 Python Programming** course. It serves as a practical exploration of recommendation algorithms and data science workflows.
+
+---
+
+## 📜 License
+
+MIT License
